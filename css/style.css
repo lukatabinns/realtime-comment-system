@@ -1,0 +1,192 @@
+*{	margin:0px;
+	margin:0px;
+	font-family: Arial;
+
+}
+
+body{
+	background: #ECE9E9;
+
+}
+
+a img  {
+	border:none;
+}
+
+.wrapper{
+	background: #fff;
+	width:750px;
+	border: 1px solid #a1a1a1;
+	margin: 10px auto 10px auto;
+	height: auto;
+
+}
+
+.page-data{
+	width: auto;
+	height: 50px;
+	color: #666;
+	margin: 10px;
+	border-bottom: 1px solid #e1e1e1;
+	
+}
+
+.chat-wrapper{
+
+	margin:10px;
+	border: 1px solid #e1e1e1;
+	height: auto;
+	width: auto;
+	color: #444;
+}
+
+.chat-title{
+	height: 40px;
+	line-height: 37px;
+	font-size: 16px;
+	margin: 0px 5px 0px 5px;
+	color: #898E8E;
+	border-bottom: 1 px solid #e1e1e1;
+}
+
+
+.chats-list{
+	height: auto;
+	font-size: 13px;
+	margin: 10px 5px 5px 0;
+	color: #333;
+}
+
+ul.chats-holder-ul{
+
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	width: auto;
+	height: auto;
+	overflow: hidden;
+
+}
+
+ul.chats-holder-ul li.chat-holder{
+	list-style-type: none;
+	background: #FFFFFF;
+	height: auto;
+	width: auto;
+	margin: 5px 0px 10px 0px;
+	border-bottom: 1 px solid #e1e1e1;
+	overflow: hidden;
+	position: relative;
+}
+
+ul.chats-holder-ul li.chat-holder:hover {
+	background-color: #F9FDFD;
+
+}
+
+ul.chats-holder-ul li.chat-holder .user-img {
+	float: left;
+	height: 65px;
+	width: 65px;
+	margin: 0px 10px 0px 0px;
+
+
+}
+
+ul.chats-holder-ul li.chat-holder .user-img  img.user-img-pic {
+	width: 55px;
+	height: auto;
+	margin: 5px;
+	border: 1px solid #e1e1e1;
+
+}
+
+ul.chats-holder-ul li.chat-holder .user-img  img.user-img-pic:hover {
+
+	border: 1px solid #919191;
+
+}
+
+ul.chats-holder-ul li.chat-holder .chat-body{
+	width:auto; 
+
+}
+
+ul.chats-holder-ul li.chat-holder .username-field{
+	height: 25px;
+	line-height: 24px;
+	color: #99CCFF;
+	font-size: 16px;
+	margin: 0 0 0 10px;
+	
+}
+
+ul.chats-holder-ul li.chat-holder .username-field:hover{
+	color: #32BBC4;
+
+}
+
+ul.chats-holder-ul li.chat-holder .chat-text{
+	font-size: 15px;
+	color:#7A7E7F;
+	margin: 0 10px 10px 75px;
+	font-family:  Segoe UI;
+}
+
+ul.chats-holder-ul li.chat-holder:hover .chats-button-holder {
+	
+	display: block;
+
+}
+
+
+.chats-button-holder{
+	display: none;
+	position: absolute;
+	top:0px;
+	right:0px;
+	width: 100px;
+	height: 20px;
+
+}
+
+.chats-button-holder ul {
+	list-style-type: none;
+	width: auto;
+	height: auto;
+	overflow: hidden;
+
+}
+
+
+.chats-button-holder ul li {
+	float: right;
+	height: 20px;
+	width: 20px;
+	background: blue;
+	text-align: center;
+	line-height: 17px;
+	color: #fff;
+	background-color: #2E5CB8;
+	cursor: pointer;
+
+
+}
+
+.chats-button-holder ul li:hover{
+	color: #444;
+	background-color: #6D8DCD;
+
+}
+
+.chat-insert{
+	
+
+
+
+}
+
+
+
+
+
