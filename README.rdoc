@@ -1,1 +1,3 @@
 Developed a real time comment system very similar that is fully functional feel free to download.
+
+This system was developed using PHP5, JavaScript(Json), CSS3, HTML5, MySql
